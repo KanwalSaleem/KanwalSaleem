@@ -11,9 +11,9 @@ I'm a passionate React JS and React Native developer with a keen interest in bui
 
 - React JS
 - React Native
-- JavaScript (ES6+)
+- JavaScript
 - TypeScript
-- HTML5, CSS3
+- HTML, CSS
 - Redux
 - Flutter
 - Node JS
