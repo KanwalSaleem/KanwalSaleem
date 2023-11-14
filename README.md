@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there! 👋 I'm Kanwal Saleem
 
-<!--
-**KanwalSaleem/KanwalSaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate React JS and React Native developer with a keen interest in building elegant and user-centric applications. Welcome to my GitHub profile! 🚀
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React JS
+- React Native
+- JavaScript (ES6+)
+- TypeScript
+- HTML5, CSS3
+- Redux
+- Flutter
+- Node JS
+
